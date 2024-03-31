@@ -58,6 +58,7 @@ export default {
       mono300: "#d6d7d9",
       error: "#d01e1e",
       social: "#395997",
+      "dark-opacity": "rgba(255, 255, 255, 0.1)",
     },
   },
   plugins: [],
