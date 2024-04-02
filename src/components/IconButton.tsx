@@ -10,7 +10,7 @@ export default function IconButton({
   onClick,
 }: IIconButtonProps) {
   return (
-    <button onClick={onClick}>
+    <button onClick={onClick} className="w-3 h-3">
       <img alt={alt} src={iconPath} />
     </button>
   );
